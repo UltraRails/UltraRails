@@ -1,0 +1,112 @@
+body{
+  background-image:url(img/moinhos.jpg);
+
+
+background-attachment:fixed;
+background-position: center center;
+
+background-size: contain;
+width: auto;
+height: 100%;
+background-size: 100% 100%;
+background-repeat:space;
+background-color:#000;
+ font-family: "Arial";
+}
+.menus{
+top: 0px;
+position: absolute;
+margin-top:0;
+overflow:hidden;
+}
+#Menu ul{
+color:#ffff;
+margin:0;
+background-color:#717171;
+font-size: 14px;
+list-style: none;
+padding: 0px;
+width:55%;
+border-radius:15px;
+background-image:url(img/back22.jpg);
+color:#ffff;
+}
+#Menu ul li{
+display: inline;
+margin:0;
+}
+
+#Menu ul li a{
+margin:0;
+padding: 6px 15px;
+display:inline-block;
+color:#ffff;
+Text-decoration:none;
+
+}
+#Menu ul li a:hover{
+color: grey;
+}
+
+p {
+        color: rgb(white)
+}
+
+#back{
+background-size:50%;
+background-color: #abafff;
+width:55%;
+border-radius: :15px;
+
+
+
+}
+#back2  {
+background-size:100%;
+background-color: #1e245e;
+width:40%;
+border-radius:15px;
+color:white;
+
+padding: 3%;
+background-image:url(img/221.jpg);
+ background-repeat:repeat;
+
+}
+
+
+#footer ul{
+background-image:url(img/back22.jpg);
+list-style: none;
+color:#000;
+Text-decoration:none;
+color: white;
+background-color: #404040;
+padding: 2px 10px;
+display: inline-block;
+width: 95%;
+font-size: 14px;
+border-radius:15px;
+}
+#footer ul li{
+display:inline-block;
+
+}
+
+
+
+#footer ul li a{
+color:#000;
+Text-decoration:none;
+color: white;
+padding: 2px 10px;
+}
+#footer ul li a:hover{
+color: grey;
+}
+#date{
+font-size: 30px;
+color:white;
+padding: 5px;
+font-weight:bold;
+}
